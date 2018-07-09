@@ -20,4 +20,4 @@ Reuse/repurpose content from your previous drills for this site.
 
 ### Submission
 
-Put a deployed link to your site [here](https://www.josetrujillo.net), and submit the URL to this repo.
+Put a deployed link to your site [here](https://josetrujillo.net), and submit the URL to this repo.
