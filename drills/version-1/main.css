@@ -1,0 +1,111 @@
+html {
+  font-size: 25px;
+  font-family: 'Mina', sans-serif;
+  color: lightgrey;
+  background-color: black;
+}
+
+.landing {
+  font-size: 25px;
+  font-family: 'Mina', sans-serif;
+  color: lightgrey;
+  background-image: url('img/Jose.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.menubar {
+  display: flex;
+  justify-content: space-around;
+  background-color: #000;
+  align-items: stretch;
+  top: 0;
+  margin-top: 0px;
+  width: 100%;
+  height: 80px;
+  border-bottom: 2px solid lightgrey;
+  position: fixed;
+  color: lightgrey;
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+ul {
+  list-style-type: none;
+  white-space: nowrap;
+}
+li {
+  float: left;
+  color: lightgrey;
+  display: block;
+  padding: 0px 10px;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+a {
+    color: lightgrey;
+    text-decoration: none;
+}
+
+a:hover {
+  background-color: grey;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 100px;
+}
+
+section {
+  width: 50%;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+}
+
+.right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+p {
+  text-align: justify;
+}
+
+h1 {
+  font-size: 50px;
+  line-height: 10px;
+  white-space: nowrap;
+}
+
+h4 {
+  line-height: 5px;
+  white-space: nowrap;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+
+.big {
+  height: 1200px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 0px;
+}
